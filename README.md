@@ -1,5 +1,5 @@
 # Social-Network-Analysis-using-Gephi-and-Python
-**Outline:** This project aims at Visualization and Analysis of Real-time Twitter users to identify depressed users.
+**Outline:** This project aims at Visualization and Analysis of Real-time Twitter data to identify Depressed Users.
 
 **DETAILED DESCRIPTION:**
 
